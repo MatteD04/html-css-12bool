@@ -1,0 +1,15 @@
+.box{
+    min-height: 80px;
+}
+.box-red{
+    background-color: red;
+}
+.box-gray{
+    background-color: rgb(181, 178, 178);
+}
+.box-gray-light{
+    background-color: lightgray;
+}
+.box-black{
+    background-color: black;
+}
